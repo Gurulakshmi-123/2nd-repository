@@ -1,0 +1,26 @@
+#clone{
+    background-color: aquamarine;
+    font-size: medium;
+    color: blue;
+    display: block;
+}
+
+#clone1{
+    background-color: brown;
+    font-size: medium;
+    color: antiquewhite;
+    display: block;
+}
+
+#clone2{
+    background-color: chartreuse;
+    font-size: medium;
+    color: blueviolet;
+    display: block;
+}
+
+#color{
+    font-style:italic;
+    font-weight: bold;
+    color: chartreuse;
+}
